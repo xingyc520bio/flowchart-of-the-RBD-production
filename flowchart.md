@@ -6,3 +6,5 @@ Take some fresh callus tissue, crush it, and use protein blotting to monitor RBD
 
 
 Considering that the binding of antibody detection with human ACE only has specificity for some protein domains, we introduced two other methods in this experiment, Western dot matrix method and PCR. These two methods can help us screen RBD positive plants on the one hand, and also determine that the protein expressed in the plants is RBD. The Western dot matrix method can determine the molecular weight of proteins by the movement speed of protein bands. Here, we use ACE2 as a capture reagent to purify RBD proteins. Several bands can be designed, including 65 positive plant callus bands of the same fresh weight, RBD protein positive control bands, and maker bands. PCR is a sequencing method that can determine whether the plant has transferred to the RBD protein gene.
+
+Process the target monitoring tissues of different plants to obtain protein solutions. Purification of RBD protein using human ACE2 protein specific affinity chromatography.
